@@ -33,8 +33,6 @@
 
 #content{
     margin: auto;
-    width: 50vw;
-    margin-top: 14vh;
 }
 .question{
     font-family: "kit-rounded-variable",sans-serif;;
@@ -55,7 +53,7 @@
 }
 
 #no_pill{
-    margin-top: 21vh;
+    margin-top: 28vh;
     width: 27.1vw;
     padding-right: 29px;
 }
@@ -85,7 +83,13 @@
 }
 
 
+/* -- yes page -- */
 
+.ideas_block{
+    display: flex;
+    margin: auto;
+    width: 40vw;
+}
 
 
 
