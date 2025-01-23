@@ -2,6 +2,15 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1202.31 165.82">
   <defs>
     <style>
+    
+      @font-face {
+        font-family: 'Daydream';
+        src: url('daydream-webfont.woff2') format('woff2'),
+             url('daydream-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
       .cls-1 {
         letter-spacing: -.09em;
       }
